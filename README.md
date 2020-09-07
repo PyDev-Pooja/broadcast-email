@@ -8,6 +8,6 @@ Grand permision from gmail.
 ------------Allow less secure app: ON
 
 set the gmail credentials
-
+------------<SenderAddress> and <password>
 create an xlsx file with receivers mails
 
